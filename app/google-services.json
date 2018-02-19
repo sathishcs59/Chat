@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837966419582",
+    "firebase_url": "https://chatroom-9a447.firebaseio.com",
+    "project_id": "chatroom-9a447",
+    "storage_bucket": "chatroom-9a447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837966419582:android:370121fa0c1ba533",
+        "android_client_info": {
+          "package_name": "android.oneindia.in.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837966419582-fm8btcjhisrcf1e4gbse7jjd51f6dg48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfODcIgRH9jekzarv3OM--WdmEgZF3OsI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
